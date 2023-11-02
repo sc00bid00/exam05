@@ -1,4 +1,4 @@
-# Exam 05 Solution - 42 School Heilbronn
+# Exam 42/05
 
 This repository contains my solution to Exam 05 at 42 School Heilbronn.
 
