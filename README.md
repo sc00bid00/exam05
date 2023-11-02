@@ -24,8 +24,9 @@ You will find alls three exercises, ex00, ex01, ex02.
 git clone https://github.com/yourusername/exam05.git
 
 # Change directory & compile e.g. as:
-cd exam05/ex00
+cd exam05/cpp_modulexx
 c++ -Wall -Wextra -Werror -std=+98 *.cpp
+main.cpp is not included so you will need to provide your code
 ```
 
 ## License
