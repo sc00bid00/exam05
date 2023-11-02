@@ -1,4 +1,3 @@
-```markdown
 # Exam 05 Solution - 42 School Heilbronn
 
 This repository contains my solution to Exam 05 at 42 School Heilbronn.
