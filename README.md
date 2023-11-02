@@ -1,6 +1,6 @@
 # Exam 42/05
 
-This repository contains my solution to Exam 05 at 42 School Heilbronn.
+This repository contains my version of the mentioned code.
 
 ## Table of Contents
 
