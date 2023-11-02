@@ -11,23 +11,20 @@ This repository contains my version of the mentioned code.
 
 ## Description
 
-This code is my solution to Exam 05 at 42 School Heilbronn. It has passed the GradeMe tests and the exam session itself. Please note that sharing exam solutions may be subject to your school's academic integrity policies and agreements. Ensure that you have the necessary permissions to share this code.
+This code is my solution to Exam 05 at 42 School Heilbronn. It has passed the GradeMe tests and the exam session itself. Please note that sharing and using this code may be subject to your school's academic integrity policies and agreements. Ensure that you have the necessary permissions to share this code. And most, ensure that you learn and understand yourself how to solve the quests, that may be hard but that's also fun and at the end of the day it should be your first driver at the school.
 
 ## Usage
 
-You will find alls three exercises.
+Write and include tha main.cpp code and compile with flags as per good 42 practcies. Code is written in c++ and complies to 98 standard as usual...
 
 ## Installation
 
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/exam05.git
-
-# Change directory & compile e.g. as:
-cd exam05/cpp_modulexx
-c++ -Wall -Wextra -Werror -std=+98 *.cpp
-main.cpp is not included so you will need to provide your code
+cd exam05
 ```
+Compile as indicated previously.
 
 ## License
 
