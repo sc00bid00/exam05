@@ -15,7 +15,7 @@ This code is my solution to Exam 05 at 42 School Heilbronn. It has passed the Gr
 
 ## Usage
 
-You will find alls three exercises, ex00, ex01, ex02.
+You will find alls three exercises.
 
 ## Installation
 
