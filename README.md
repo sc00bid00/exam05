@@ -21,7 +21,7 @@ You will find alls three exercises, ex00, ex01, ex02.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/exam-05-solution.git
+git clone https://github.com/yourusername/exam05.git
 
 # Change directory & compile e.g. as:
 cd exam05/ex00
